@@ -1,2 +1,9 @@
-Give Name to file extension
-add system to store data
+ - Give Name to file extension (demo.dse) ?DONE?
+
+ - add encryption (symmetric)
+ - add more data types like arrays and lists
+
+ - add user-interface
+ - add way to output the data after reading it 
+
+ - make it universal (usable for many different use cases)
