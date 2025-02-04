@@ -9,4 +9,4 @@ Any contributions or suggestions are welcome and I will try to inspect and consi
 
 Thank you for showing interesest in the development of the file extension: '.dse'.
 
-- Author and Head-Developer, Tristan
+Author and Head-Developer, Tristan
