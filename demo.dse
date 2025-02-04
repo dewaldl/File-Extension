@@ -1,3 +1,11 @@
+name : str {
+	tristan
+}
+
+age : int {
+	13
+}
+
 best_dad_ever : str {
 	dewald
 }
