@@ -69,7 +69,9 @@ file_extension: str = ".dse"
 # Duplicate data is removed automatically
 write_file(f"demo{file_extension}", {"name":{"data":"tristan", "type":"str"}, 
                                      "age":{"data":13, "type":"int"},
-                                     "best_dad_ever":{"data":"dewald", "type":"str"}}, 
+                                     "best_dad_ever":{"data":"dewald", "type":"str"},
+                                     "beste_seun_ooit":{"data":"tristan", "type":"str"},
+                                     "boodskap":{"data":"Geniet jou dag. Sien jou Donderdag. Pappa is baie lief vir jou!!", "type":"str"}}, 
                                      append=False)
 
 data: dict = read_file(f"demo{file_extension}")
